@@ -1,2 +1,2 @@
 # machine_learning_with_python Project-1
-There are three projects regarding machine learning using python programming.
+In this project Google stock dataset was preprocessed and fore-casted for the prediction of the stocks. 
